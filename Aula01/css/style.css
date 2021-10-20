@@ -1,0 +1,30 @@
+.navbar{
+    background-color: #BFC12B;
+    padding-left: 30%;
+}
+
+.quemsomos{
+    background-color: black;
+    color:blanchedalmond
+}
+
+.parceiros{
+    background-color: yellow;
+}
+
+.servicos{
+    background-color: black;
+    color: blanchedalmond
+}
+
+.padding{
+    padding: 3%;
+}
+
+body{
+    font-size: 150%;
+}
+
+footer{
+    background-color: #BFC12B;
+}
